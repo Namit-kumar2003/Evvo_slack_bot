@@ -1,0 +1,18 @@
+# Slack
+slack-bolt>=1.18.0
+slack-sdk>=3.27.0
+
+# LangChain core
+langchain-core>=0.2.0
+
+# HuggingFace InferenceClient (Llama 3.1 via Sambanova provider)
+huggingface-hub>=0.23.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Chart generation
+matplotlib>=3.8.0
+
+# Environment
+python-dotenv>=1.0.0
