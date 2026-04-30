@@ -18,6 +18,8 @@ venv/
 env/
 ENV/
 .virtualenv/
+venv310/
+
 
 # ── Distribution / Packaging ───────────────────────────────────────────────
 dist/
